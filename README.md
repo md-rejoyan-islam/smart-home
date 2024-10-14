@@ -12,4 +12,4 @@ This is a simple real estate website that allows users to view properties and co
 
 ## Links
 
-<a href="https://smart-real-estate.netlify.app">Live Link</a>
+<a href="https://real-smart-home.vercel.app">Live Link</a>
